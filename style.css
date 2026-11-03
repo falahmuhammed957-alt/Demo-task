@@ -67,9 +67,15 @@ body{
     cursor: pointer;
 
 }
+.btn{
+    text-decoration: none;
+    background-color: darkolivegreen;
+    color: aliceblue;
+}
 
 .herotext{
     flex: 1;
+    text-decoration: none;
 
 }
 .foodimage{
@@ -81,5 +87,7 @@ body{
     flex: 1;
 }
 
-
+.food-card{
+    width: mg-5;
+}
 
